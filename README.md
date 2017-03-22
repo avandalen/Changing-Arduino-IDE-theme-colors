@@ -1,6 +1,11 @@
 Changing the Arduino IDE tab color
 
 The text inside the tabs of the Arduino IDE is hard to read due to the dark blue-green background. To change the color, replace these files in the folder C:\Program Files (x86)\Arduino\lib\theme\ with the files here.
+buttons.svg
+tab-unsel-left.svg
+tab-unsel-menu.svg
+tab-unsel-mid.svg
+tab-unsel-right.svg
 
 Changing the Arduino comment font color
 
