@@ -6,7 +6,6 @@ tab-unsel-left.svg
 tab-unsel-menu.svg
 tab-unsel-mid.svg
 tab-unsel-right.svg
-nn
 
 Changing the Arduino comment font color
 
