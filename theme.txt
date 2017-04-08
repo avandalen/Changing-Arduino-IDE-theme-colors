@@ -5,8 +5,8 @@
 #VARIABLES COLOR 				#00979C - BLUE				LITERAL2
 
 #ERROR COLOR					#A61717 - RED
-#COMMENTS // COLOR			#95A5A6 - LIGHT GREY
-#COMMENTS /**/ COLOR		#434F54	- DARK GREY
+#COMMENTS // COLOR		#0920ed
+#COMMENTS /**/ COLOR		#0920ed
 
 # GUI - STATUS
 status.notice.fgcolor = #002325
@@ -125,7 +125,7 @@ editor.label.style = #7e7e7e,bold
 
 
 # TEXT - COMMENTS
-editor.comment1.style = #434F54,plain
+editor.comment1.style = #0920ed,plain
 editor.comment2.style = #0920ed,plain
 
 
